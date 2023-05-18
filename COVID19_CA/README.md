@@ -1,1 +1,3 @@
-A simulation of the COVID-19 outbreak using the cellular automaton method with SIRS model
+# Cellular Automaton
+
+A simulation of the COVID-19 outbreak with SIRS model using the cellular automaton method 
